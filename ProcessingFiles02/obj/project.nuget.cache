@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "urXae22uYmxJy0ZytQukBIk6GRAyxJpm1nleytZeA+Dt9T33dnoUzL57fpYa2ymAj6idGsh02VsyPaaGcn7KWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dmitry\\source\\repos\\ProcessingFiles\\ProcessingFiles02\\ProcessingFiles02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dmitry\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dmitry\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

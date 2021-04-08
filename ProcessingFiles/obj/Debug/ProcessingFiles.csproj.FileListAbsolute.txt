@@ -1,0 +1,7 @@
+C:\Users\Dmitry\source\repos\ProcessingFiles\ProcessingFiles\bin\Debug\ProcessingFiles.exe.config
+C:\Users\Dmitry\source\repos\ProcessingFiles\ProcessingFiles\bin\Debug\ProcessingFiles.exe
+C:\Users\Dmitry\source\repos\ProcessingFiles\ProcessingFiles\bin\Debug\ProcessingFiles.pdb
+C:\Users\Dmitry\source\repos\ProcessingFiles\ProcessingFiles\obj\Debug\ProcessingFiles.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\ProcessingFiles\ProcessingFiles\obj\Debug\ProcessingFiles.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\ProcessingFiles\ProcessingFiles\obj\Debug\ProcessingFiles.exe
+C:\Users\Dmitry\source\repos\ProcessingFiles\ProcessingFiles\obj\Debug\ProcessingFiles.pdb
